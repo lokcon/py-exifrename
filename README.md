@@ -1,4 +1,4 @@
-# EXIF Rename (py-exifrename)
+# EXIF Rename
 Rename image files according their EXIF Taken Date timestamp
 
 ### Requirement:
